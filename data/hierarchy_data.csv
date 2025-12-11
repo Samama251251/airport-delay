@@ -1,0 +1,862 @@
+State,City,Airport,Airline,FlightCount,AvgDelay
+Arizona,"Flagstaff, AZ",FLG,SkyWest Airlines,110,21.51818181818182
+Arizona,"Phoenix, AZ",AZA,Allegiant Air,508,16.004024144869216
+Arizona,"Phoenix, AZ",PHX,Allegiant Air,34,25.294117647058822
+Arizona,"Phoenix, AZ",PHX,American Airlines,1188,18.462774957698816
+Arizona,"Phoenix, AZ",PHX,Delta Air Lines,867,12.300230946882218
+Arizona,"Phoenix, AZ",PHX,Envoy Air,334,18.65045592705167
+Arizona,"Phoenix, AZ",PHX,Frontier Airlines,709,11.771754636233952
+Arizona,"Phoenix, AZ",PHX,Hawaiian Airlines,31,10.935483870967742
+Arizona,"Phoenix, AZ",PHX,JetBlue Airways,13,0.15384615384615385
+Arizona,"Phoenix, AZ",PHX,Mesa Airlines,98,55.23913043478261
+Arizona,"Phoenix, AZ",PHX,SkyWest Airlines,2158,9.066200466200467
+Arizona,"Phoenix, AZ",PHX,Southwest Airlines,5215,11.938341463414634
+Arizona,"Phoenix, AZ",PHX,Spirit Airlines,127,16.6
+Arizona,"Phoenix, AZ",PHX,United Airlines,799,12.217573221757322
+Arizona,"Prescott, AZ",PRC,SkyWest Airlines,61,18.40983606557377
+Arizona,"Tucson, AZ",TUS,American Airlines,38,3.4054054054054053
+Arizona,"Tucson, AZ",TUS,Delta Air Lines,127,13.669291338582678
+Arizona,"Tucson, AZ",TUS,Envoy Air,24,8.416666666666666
+Arizona,"Tucson, AZ",TUS,Mesa Airlines,23,56.31818181818182
+Arizona,"Tucson, AZ",TUS,SkyWest Airlines,641,11.5921875
+Arizona,"Tucson, AZ",TUS,Southwest Airlines,355,9.177650429799426
+Arizona,"Tucson, AZ",TUS,United Airlines,124,33.074380165289256
+Arizona,"Yuma, AZ",YUM,SkyWest Airlines,111,15.73873873873874
+California,"Arcata/Eureka, CA",ACV,SkyWest Airlines,148,24.379310344827587
+California,"Bakersfield, CA",BFL,Envoy Air,1,10.0
+California,"Bakersfield, CA",BFL,SkyWest Airlines,117,6.333333333333333
+California,"Bishop, CA",BIH,SkyWest Airlines,53,18.80392156862745
+California,"Burbank, CA",BUR,American Airlines,5,210.4
+California,"Burbank, CA",BUR,JetBlue Airways,6,0.0
+California,"Burbank, CA",BUR,SkyWest Airlines,411,13.080487804878048
+California,"Burbank, CA",BUR,Southwest Airlines,1482,8.441939890710383
+California,"Burbank, CA",BUR,Spirit Airlines,78,9.25
+California,"Burbank, CA",BUR,United Airlines,40,18.42105263157895
+California,"Fresno, CA",FAT,Allegiant Air,39,13.205128205128204
+California,"Fresno, CA",FAT,American Airlines,18,21.666666666666668
+California,"Fresno, CA",FAT,SkyWest Airlines,481,11.95625
+California,"Fresno, CA",FAT,Southwest Airlines,118,14.169491525423728
+California,"Fresno, CA",FAT,United Airlines,24,4.416666666666667
+California,"Long Beach, CA",LGB,Delta Air Lines,28,11.357142857142858
+California,"Long Beach, CA",LGB,Hawaiian Airlines,31,7.483870967741935
+California,"Long Beach, CA",LGB,SkyWest Airlines,62,10.838709677419354
+California,"Long Beach, CA",LGB,Southwest Airlines,1363,9.570254110612854
+California,"Los Angeles, CA",LAX,Allegiant Air,55,25.814814814814813
+California,"Los Angeles, CA",LAX,American Airlines,956,18.521008403361346
+California,"Los Angeles, CA",LAX,Delta Air Lines,2754,10.5877640203933
+California,"Los Angeles, CA",LAX,Hawaiian Airlines,188,11.167567567567568
+California,"Los Angeles, CA",LAX,JetBlue Airways,178,5.522471910112359
+California,"Los Angeles, CA",LAX,SkyWest Airlines,3250,8.57997520148791
+California,"Los Angeles, CA",LAX,Southwest Airlines,2093,12.250605913717887
+California,"Los Angeles, CA",LAX,Spirit Airlines,920,10.676600441501103
+California,"Los Angeles, CA",LAX,United Airlines,1979,15.932300631095812
+California,"Monterey, CA",MRY,Allegiant Air,9,40.333333333333336
+California,"Monterey, CA",MRY,Envoy Air,23,8.681818181818182
+California,"Monterey, CA",MRY,SkyWest Airlines,244,10.14344262295082
+California,"Oakland, CA",OAK,Allegiant Air,5,30.8
+California,"Oakland, CA",OAK,Delta Air Lines,55,13.481481481481481
+California,"Oakland, CA",OAK,Hawaiian Airlines,88,5.729411764705882
+California,"Oakland, CA",OAK,SkyWest Airlines,163,13.099378881987578
+California,"Oakland, CA",OAK,Southwest Airlines,2987,10.305527297388945
+California,"Oakland, CA",OAK,Spirit Airlines,172,11.935294117647059
+California,"Ontario, CA",ONT,American Airlines,27,8.185185185185185
+California,"Ontario, CA",ONT,Delta Air Lines,180,5.4860335195530725
+California,"Ontario, CA",ONT,Envoy Air,7,4.142857142857143
+California,"Ontario, CA",ONT,Frontier Airlines,179,14.803370786516854
+California,"Ontario, CA",ONT,Hawaiian Airlines,32,42.87096774193548
+California,"Ontario, CA",ONT,JetBlue Airways,6,7.833333333333333
+California,"Ontario, CA",ONT,SkyWest Airlines,156,14.692307692307692
+California,"Ontario, CA",ONT,Southwest Airlines,890,10.03178206583428
+California,"Ontario, CA",ONT,United Airlines,62,12.806451612903226
+California,"Palm Springs, CA",PSP,Allegiant Air,9,24.555555555555557
+California,"Palm Springs, CA",PSP,American Airlines,7,68.28571428571429
+California,"Palm Springs, CA",PSP,Delta Air Lines,128,6.7578125
+California,"Palm Springs, CA",PSP,Envoy Air,31,18.64516129032258
+California,"Palm Springs, CA",PSP,SkyWest Airlines,454,11.326710816777043
+California,"Palm Springs, CA",PSP,Southwest Airlines,276,10.032608695652174
+California,"Palm Springs, CA",PSP,United Airlines,163,20.03125
+California,"Redding, CA",RDD,SkyWest Airlines,93,12.301075268817204
+California,"Sacramento, CA",SMF,American Airlines,60,16.322033898305083
+California,"Sacramento, CA",SMF,Delta Air Lines,247,15.526315789473685
+California,"Sacramento, CA",SMF,Envoy Air,43,16.627906976744185
+California,"Sacramento, CA",SMF,Frontier Airlines,19,12.789473684210526
+California,"Sacramento, CA",SMF,Hawaiian Airlines,62,10.5
+California,"Sacramento, CA",SMF,JetBlue Airways,6,0.0
+California,"Sacramento, CA",SMF,SkyWest Airlines,709,10.30028328611898
+California,"Sacramento, CA",SMF,Southwest Airlines,2369,9.188832054560955
+California,"Sacramento, CA",SMF,Spirit Airlines,110,16.21818181818182
+California,"Sacramento, CA",SMF,United Airlines,232,9.092592592592593
+California,"San Diego, CA",SAN,Allegiant Air,10,8.7
+California,"San Diego, CA",SAN,American Airlines,152,21.32
+California,"San Diego, CA",SAN,Delta Air Lines,663,7.901812688821752
+California,"San Diego, CA",SAN,Frontier Airlines,220,11.404545454545454
+California,"San Diego, CA",SAN,Hawaiian Airlines,58,16.03448275862069
+California,"San Diego, CA",SAN,JetBlue Airways,25,36.84
+California,"San Diego, CA",SAN,SkyWest Airlines,949,10.46673706441394
+California,"San Diego, CA",SAN,Southwest Airlines,2705,10.722263868065967
+California,"San Diego, CA",SAN,Spirit Airlines,157,4.356687898089172
+California,"San Diego, CA",SAN,United Airlines,747,14.758675078864353
+California,"San Francisco, CA",SFO,American Airlines,236,33.563559322033896
+California,"San Francisco, CA",SFO,Delta Air Lines,885,11.452894438138479
+California,"San Francisco, CA",SFO,Envoy Air,14,25.428571428571427
+California,"San Francisco, CA",SFO,Frontier Airlines,194,34.91237113402062
+California,"San Francisco, CA",SFO,Hawaiian Airlines,64,7.55
+California,"San Francisco, CA",SFO,JetBlue Airways,67,10.313432835820896
+California,"San Francisco, CA",SFO,SkyWest Airlines,2940,15.203691045796308
+California,"San Francisco, CA",SFO,Southwest Airlines,586,17.900514579759864
+California,"San Francisco, CA",SFO,United Airlines,3553,16.866004962779158
+California,"San Jose, CA",SJC,American Airlines,13,26.384615384615383
+California,"San Jose, CA",SJC,Delta Air Lines,178,13.769662921348315
+California,"San Jose, CA",SJC,Envoy Air,15,4.666666666666667
+California,"San Jose, CA",SJC,Hawaiian Airlines,49,4.458333333333333
+California,"San Jose, CA",SJC,SkyWest Airlines,647,8.413416536661467
+California,"San Jose, CA",SJC,Southwest Airlines,2388,8.779983108108109
+California,"San Jose, CA",SJC,Spirit Airlines,92,15.543478260869565
+California,"San Jose, CA",SJC,United Airlines,146,7.8936170212765955
+California,"San Luis Obispo, CA",SBP,Envoy Air,23,15.91304347826087
+California,"San Luis Obispo, CA",SBP,SkyWest Airlines,258,14.369649805447471
+California,"San Luis Obispo, CA",SBP,United Airlines,31,2.838709677419355
+California,"Santa Ana, CA",SNA,Allegiant Air,94,45.75824175824176
+California,"Santa Ana, CA",SNA,American Airlines,273,24.322222222222223
+California,"Santa Ana, CA",SNA,Delta Air Lines,344,12.290697674418604
+California,"Santa Ana, CA",SNA,Frontier Airlines,96,29.114583333333332
+California,"Santa Ana, CA",SNA,SkyWest Airlines,331,15.069486404833837
+California,"Santa Ana, CA",SNA,Southwest Airlines,1254,9.796296296296296
+California,"Santa Ana, CA",SNA,Spirit Airlines,102,8.564356435643564
+California,"Santa Ana, CA",SNA,United Airlines,494,7.236139630390143
+California,"Santa Barbara, CA",SBA,American Airlines,59,12.813559322033898
+California,"Santa Barbara, CA",SBA,SkyWest Airlines,117,8.965811965811966
+California,"Santa Barbara, CA",SBA,Southwest Airlines,177,6.44
+California,"Santa Barbara, CA",SBA,United Airlines,124,26.39669421487603
+California,"Santa Maria, CA",SMX,Allegiant Air,9,69.66666666666667
+California,"Santa Rosa, CA",STS,SkyWest Airlines,243,14.7375
+California,"Stockton, CA",SCK,Allegiant Air,39,22.743589743589745
+Colorado,"Aspen, CO",ASE,SkyWest Airlines,970,34.8991888760139
+Colorado,"Colorado Springs, CO",COS,CommuteAir,48,27.282608695652176
+Colorado,"Colorado Springs, CO",COS,Delta Air Lines,30,3.1333333333333333
+Colorado,"Colorado Springs, CO",COS,Envoy Air,7,6.142857142857143
+Colorado,"Colorado Springs, CO",COS,SkyWest Airlines,358,21.384180790960453
+Colorado,"Colorado Springs, CO",COS,Southwest Airlines,409,9.13681592039801
+Colorado,"Colorado Springs, CO",COS,United Airlines,58,16.210526315789473
+Colorado,"Denver, CO",DEN,Allegiant Air,25,17.304347826086957
+Colorado,"Denver, CO",DEN,American Airlines,149,22.5
+Colorado,"Denver, CO",DEN,CommuteAir,629,24.919055649241148
+Colorado,"Denver, CO",DEN,Delta Air Lines,1001,12.155844155844155
+Colorado,"Denver, CO",DEN,Frontier Airlines,1465,15.847317744154058
+Colorado,"Denver, CO",DEN,JetBlue Airways,18,9.666666666666666
+Colorado,"Denver, CO",DEN,Mesa Airlines,506,61.89855072463768
+Colorado,"Denver, CO",DEN,SkyWest Airlines,3923,20.661753092919188
+Colorado,"Denver, CO",DEN,Southwest Airlines,8059,18.23586118251928
+Colorado,"Denver, CO",DEN,Spirit Airlines,36,45.138888888888886
+Colorado,"Denver, CO",DEN,United Airlines,7884,18.599918433931485
+Colorado,"Durango, CO",DRO,CommuteAir,31,16.285714285714285
+Colorado,"Durango, CO",DRO,SkyWest Airlines,219,27.435185185185187
+Colorado,"Durango, CO",DRO,United Airlines,54,21.314814814814813
+Colorado,"Eagle, CO",EGE,American Airlines,140,64.21014492753623
+Colorado,"Eagle, CO",EGE,Delta Air Lines,51,18.84313725490196
+Colorado,"Eagle, CO",EGE,SkyWest Airlines,216,20.25
+Colorado,"Eagle, CO",EGE,United Airlines,111,29.89908256880734
+Colorado,"Grand Junction, CO",GJT,Allegiant Air,9,27.88888888888889
+Colorado,"Grand Junction, CO",GJT,Envoy Air,15,3.066666666666667
+Colorado,"Grand Junction, CO",GJT,Mesa Airlines,30,22.464285714285715
+Colorado,"Grand Junction, CO",GJT,SkyWest Airlines,199,23.933673469387756
+Colorado,"Grand Junction, CO",GJT,United Airlines,54,7.296296296296297
+Colorado,"Gunnison, CO",GUC,Mesa Airlines,30,31.807692307692307
+Colorado,"Gunnison, CO",GUC,SkyWest Airlines,62,28.883333333333333
+Colorado,"Hayden, CO",HDN,Delta Air Lines,35,18.8
+Colorado,"Hayden, CO",HDN,Envoy Air,4,3.5
+Colorado,"Hayden, CO",HDN,SkyWest Airlines,64,45.140625
+Colorado,"Hayden, CO",HDN,Southwest Airlines,104,16.485436893203882
+Colorado,"Hayden, CO",HDN,United Airlines,157,23.96815286624204
+Colorado,"Montrose/Delta, CO",MTJ,American Airlines,23,24.347826086956523
+Colorado,"Montrose/Delta, CO",MTJ,Delta Air Lines,27,14.592592592592593
+Colorado,"Montrose/Delta, CO",MTJ,Mesa Airlines,1,0.0
+Colorado,"Montrose/Delta, CO",MTJ,SkyWest Airlines,109,23.38317757009346
+Colorado,"Montrose/Delta, CO",MTJ,Southwest Airlines,100,15.42
+Colorado,"Montrose/Delta, CO",MTJ,United Airlines,86,9.869047619047619
+Florida,"Daytona Beach, FL",DAB,Delta Air Lines,107,16.738317757009344
+Florida,"Daytona Beach, FL",DAB,PSA Airlines,36,24.470588235294116
+Florida,"Fort Lauderdale, FL",FLL,Allegiant Air,284,19.953405017921146
+Florida,"Fort Lauderdale, FL",FLL,American Airlines,92,17.1
+Florida,"Fort Lauderdale, FL",FLL,Delta Air Lines,1094,17.344954128440367
+Florida,"Fort Lauderdale, FL",FLL,Endeavor Air,14,22.285714285714285
+Florida,"Fort Lauderdale, FL",FLL,Frontier Airlines,155,32.81333333333333
+Florida,"Fort Lauderdale, FL",FLL,JetBlue Airways,360,14.366666666666667
+Florida,"Fort Lauderdale, FL",FLL,Southwest Airlines,1405,20.26178390137781
+Florida,"Fort Lauderdale, FL",FLL,Spirit Airlines,2080,23.476699029126213
+Florida,"Fort Lauderdale, FL",FLL,United Airlines,823,21.03616133518776
+Florida,"Fort Myers, FL",RSW,American Airlines,62,27.75
+Florida,"Fort Myers, FL",RSW,Delta Air Lines,702,9.574074074074074
+Florida,"Fort Myers, FL",RSW,Endeavor Air,7,19.714285714285715
+Florida,"Fort Myers, FL",RSW,Envoy Air,27,12.62962962962963
+Florida,"Fort Myers, FL",RSW,Frontier Airlines,418,31.029850746268657
+Florida,"Fort Myers, FL",RSW,JetBlue Airways,80,26.8625
+Florida,"Fort Myers, FL",RSW,PSA Airlines,7,2.2857142857142856
+Florida,"Fort Myers, FL",RSW,Republic Airlines,3,0.0
+Florida,"Fort Myers, FL",RSW,Southwest Airlines,694,17.364985163204746
+Florida,"Fort Myers, FL",RSW,Spirit Airlines,362,16.226256983240223
+Florida,"Fort Myers, FL",RSW,United Airlines,635,11.071559633027523
+Florida,"Gainesville, FL",GNV,Delta Air Lines,118,8.535087719298245
+Florida,"Gainesville, FL",GNV,Endeavor Air,18,14.333333333333334
+Florida,"Gainesville, FL",GNV,Envoy Air,62,8.426229508196721
+Florida,"Gainesville, FL",GNV,PSA Airlines,7,8.428571428571429
+Florida,"Jacksonville, FL",JAX,Allegiant Air,41,25.073170731707318
+Florida,"Jacksonville, FL",JAX,American Airlines,77,27.038961038961038
+Florida,"Jacksonville, FL",JAX,Delta Air Lines,414,9.302663438256658
+Florida,"Jacksonville, FL",JAX,Endeavor Air,88,22.406976744186046
+Florida,"Jacksonville, FL",JAX,Envoy Air,119,8.64406779661017
+Florida,"Jacksonville, FL",JAX,Frontier Airlines,67,12.492307692307692
+Florida,"Jacksonville, FL",JAX,JetBlue Airways,24,6.375
+Florida,"Jacksonville, FL",JAX,Mesa Airlines,42,19.70731707317073
+Florida,"Jacksonville, FL",JAX,PSA Airlines,85,41.620253164556964
+Florida,"Jacksonville, FL",JAX,Republic Airlines,83,20.11111111111111
+Florida,"Jacksonville, FL",JAX,SkyWest Airlines,2,0.0
+Florida,"Jacksonville, FL",JAX,Southwest Airlines,377,11.442934782608695
+Florida,"Jacksonville, FL",JAX,United Airlines,350,16.89085545722714
+Florida,"Key West, FL",EYW,Allegiant Air,54,30.16
+Florida,"Key West, FL",EYW,Delta Air Lines,93,29.967741935483872
+Florida,"Key West, FL",EYW,Endeavor Air,34,24.970588235294116
+Florida,"Key West, FL",EYW,Envoy Air,174,22.53529411764706
+Florida,"Key West, FL",EYW,JetBlue Airways,6,33.333333333333336
+Florida,"Key West, FL",EYW,Republic Airlines,133,8.5546875
+Florida,"Key West, FL",EYW,United Airlines,124,17.73109243697479
+Florida,"Melbourne, FL",MLB,Allegiant Air,25,10.28
+Florida,"Melbourne, FL",MLB,Delta Air Lines,104,8.201923076923077
+Florida,"Melbourne, FL",MLB,PSA Airlines,93,29.408602150537636
+Florida,"Miami, FL",MIA,American Airlines,1327,24.15905631659056
+Florida,"Miami, FL",MIA,Delta Air Lines,1001,21.92192192192192
+Florida,"Miami, FL",MIA,Endeavor Air,7,29.142857142857142
+Florida,"Miami, FL",MIA,Envoy Air,1396,8.236456808199122
+Florida,"Miami, FL",MIA,Frontier Airlines,287,32.5709219858156
+Florida,"Miami, FL",MIA,JetBlue Airways,45,8.066666666666666
+Florida,"Miami, FL",MIA,Republic Airlines,73,30.323943661971832
+Florida,"Miami, FL",MIA,Southwest Airlines,573,18.706093189964157
+Florida,"Miami, FL",MIA,Spirit Airlines,606,20.56093489148581
+Florida,"Miami, FL",MIA,United Airlines,691,18.322635135135137
+Florida,"Orlando, FL",MCO,American Airlines,266,21.714828897338403
+Florida,"Orlando, FL",MCO,Delta Air Lines,1864,15.015061861215708
+Florida,"Orlando, FL",MCO,Frontier Airlines,1947,22.886495007882292
+Florida,"Orlando, FL",MCO,JetBlue Airways,277,16.82608695652174
+Florida,"Orlando, FL",MCO,Southwest Airlines,3776,15.946998377501352
+Florida,"Orlando, FL",MCO,Spirit Airlines,2181,23.890697674418604
+Florida,"Orlando, FL",MCO,United Airlines,1247,19.336355394378966
+Florida,"Panama City, FL",ECP,American Airlines,7,57.857142857142854
+Florida,"Panama City, FL",ECP,CommuteAir,31,11.4
+Florida,"Panama City, FL",ECP,Delta Air Lines,139,10.985611510791367
+Florida,"Panama City, FL",ECP,Endeavor Air,24,39.958333333333336
+Florida,"Panama City, FL",ECP,Envoy Air,71,21.35211267605634
+Florida,"Panama City, FL",ECP,Mesa Airlines,55,44.411764705882355
+Florida,"Panama City, FL",ECP,PSA Airlines,39,22.342105263157894
+Florida,"Panama City, FL",ECP,Southwest Airlines,130,8.928571428571429
+Florida,"Pensacola, FL",PNS,CommuteAir,84,17.575
+Florida,"Pensacola, FL",PNS,Delta Air Lines,163,5.098159509202454
+Florida,"Pensacola, FL",PNS,Endeavor Air,43,14.452380952380953
+Florida,"Pensacola, FL",PNS,Envoy Air,110,14.155963302752294
+Florida,"Pensacola, FL",PNS,Frontier Airlines,15,16.0
+Florida,"Pensacola, FL",PNS,Mesa Airlines,13,27.416666666666668
+Florida,"Pensacola, FL",PNS,PSA Airlines,155,37.36
+Florida,"Pensacola, FL",PNS,SkyWest Airlines,13,19.384615384615383
+Florida,"Pensacola, FL",PNS,Southwest Airlines,124,15.958677685950413
+Florida,"Pensacola, FL",PNS,Spirit Airlines,56,13.660714285714286
+Florida,"Pensacola, FL",PNS,United Airlines,58,13.574074074074074
+Florida,"Punta Gorda, FL",PGD,Allegiant Air,536,17.015151515151516
+Florida,"Sanford, FL",SFB,Allegiant Air,741,13.994535519125684
+Florida,"Sarasota/Bradenton, FL",SRQ,Allegiant Air,247,16.632653061224488
+Florida,"Sarasota/Bradenton, FL",SRQ,American Airlines,119,58.58620689655172
+Florida,"Sarasota/Bradenton, FL",SRQ,Delta Air Lines,296,13.843537414965986
+Florida,"Sarasota/Bradenton, FL",SRQ,Frontier Airlines,61,34.43333333333333
+Florida,"Sarasota/Bradenton, FL",SRQ,JetBlue Airways,20,29.4
+Florida,"Sarasota/Bradenton, FL",SRQ,Mesa Airlines,31,11.7
+Florida,"Sarasota/Bradenton, FL",SRQ,PSA Airlines,7,30.857142857142858
+Florida,"Sarasota/Bradenton, FL",SRQ,Republic Airlines,5,55.4
+Florida,"Sarasota/Bradenton, FL",SRQ,SkyWest Airlines,1,50.0
+Florida,"Sarasota/Bradenton, FL",SRQ,Southwest Airlines,385,16.780748663101605
+Florida,"Sarasota/Bradenton, FL",SRQ,United Airlines,199,29.095238095238095
+Florida,"St. Petersburg, FL",PIE,Allegiant Air,579,17.51567944250871
+Florida,"Tallahassee, FL",TLH,Delta Air Lines,84,7.595238095238095
+Florida,"Tallahassee, FL",TLH,Endeavor Air,71,21.0
+Florida,"Tallahassee, FL",TLH,Envoy Air,293,10.508710801393729
+Florida,"Tallahassee, FL",TLH,JetBlue Airways,7,0.42857142857142855
+Florida,"Tallahassee, FL",TLH,PSA Airlines,3,0.0
+Florida,"Tampa, FL",TPA,American Airlines,231,17.24890829694323
+Florida,"Tampa, FL",TPA,Delta Air Lines,1016,14.558300395256918
+Florida,"Tampa, FL",TPA,Envoy Air,101,19.0752688172043
+Florida,"Tampa, FL",TPA,Frontier Airlines,574,19.590017825311943
+Florida,"Tampa, FL",TPA,JetBlue Airways,89,11.775280898876405
+Florida,"Tampa, FL",TPA,Republic Airlines,3,0.0
+Florida,"Tampa, FL",TPA,Southwest Airlines,2064,12.317841079460269
+Florida,"Tampa, FL",TPA,Spirit Airlines,586,13.614186851211073
+Florida,"Tampa, FL",TPA,United Airlines,782,15.319718309859155
+Florida,"Valparaiso, FL",VPS,Allegiant Air,60,7.85
+Florida,"Valparaiso, FL",VPS,Delta Air Lines,154,13.512987012987013
+Florida,"Valparaiso, FL",VPS,Endeavor Air,2,61.0
+Florida,"Valparaiso, FL",VPS,Envoy Air,18,26.333333333333332
+Florida,"Valparaiso, FL",VPS,PSA Airlines,110,19.556603773584907
+Florida,"Valparaiso, FL",VPS,Southwest Airlines,131,11.523076923076923
+Florida,"West Palm Beach/Palm Beach, FL",PBI,Allegiant Air,29,27.96551724137931
+Florida,"West Palm Beach/Palm Beach, FL",PBI,American Airlines,76,30.355263157894736
+Florida,"West Palm Beach/Palm Beach, FL",PBI,Delta Air Lines,613,23.29459901800327
+Florida,"West Palm Beach/Palm Beach, FL",PBI,Frontier Airlines,184,36.88636363636363
+Florida,"West Palm Beach/Palm Beach, FL",PBI,JetBlue Airways,161,14.85625
+Florida,"West Palm Beach/Palm Beach, FL",PBI,Republic Airlines,10,0.1
+Florida,"West Palm Beach/Palm Beach, FL",PBI,Southwest Airlines,239,13.638655462184873
+Florida,"West Palm Beach/Palm Beach, FL",PBI,Spirit Airlines,62,10.819672131147541
+Florida,"West Palm Beach/Palm Beach, FL",PBI,United Airlines,405,22.297619047619047
+Georgia,"Albany, GA",ABY,Endeavor Air,3,21.666666666666668
+Georgia,"Albany, GA",ABY,SkyWest Airlines,59,38.101694915254235
+Georgia,"Atlanta, GA",ATL,American Airlines,57,15.196428571428571
+Georgia,"Atlanta, GA",ATL,Delta Air Lines,16469,10.736444498598757
+Georgia,"Atlanta, GA",ATL,Endeavor Air,2502,22.5204415372036
+Georgia,"Atlanta, GA",ATL,Envoy Air,64,50.983870967741936
+Georgia,"Atlanta, GA",ATL,Frontier Airlines,746,25.22930800542741
+Georgia,"Atlanta, GA",ATL,JetBlue Airways,59,13.830508474576272
+Georgia,"Atlanta, GA",ATL,Mesa Airlines,47,31.97872340425532
+Georgia,"Atlanta, GA",ATL,PSA Airlines,199,19.943298969072163
+Georgia,"Atlanta, GA",ATL,Republic Airlines,132,11.149606299212598
+Georgia,"Atlanta, GA",ATL,SkyWest Airlines,797,38.17602040816327
+Georgia,"Atlanta, GA",ATL,Southwest Airlines,2976,16.277397260273972
+Georgia,"Atlanta, GA",ATL,Spirit Airlines,936,21.573118279569893
+Georgia,"Atlanta, GA",ATL,United Airlines,529,19.463709677419356
+Georgia,"Augusta, GA",AGS,Endeavor Air,73,43.178082191780824
+Georgia,"Augusta, GA",AGS,Envoy Air,1,0.0
+Georgia,"Augusta, GA",AGS,PSA Airlines,73,26.434782608695652
+Georgia,"Augusta, GA",AGS,SkyWest Airlines,101,45.08910891089109
+Georgia,"Brunswick, GA",BQK,SkyWest Airlines,62,29.967741935483872
+Georgia,"Columbus, GA",CSG,Endeavor Air,2,9.5
+Georgia,"Columbus, GA",CSG,SkyWest Airlines,80,41.93589743589744
+Georgia,"Savannah, GA",SAV,Allegiant Air,24,12.166666666666666
+Georgia,"Savannah, GA",SAV,American Airlines,7,168.14285714285714
+Georgia,"Savannah, GA",SAV,Delta Air Lines,196,9.556122448979592
+Georgia,"Savannah, GA",SAV,Endeavor Air,170,19.549382716049383
+Georgia,"Savannah, GA",SAV,Envoy Air,132,11.2
+Georgia,"Savannah, GA",SAV,GoJet Airlines,5,10.4
+Georgia,"Savannah, GA",SAV,JetBlue Airways,12,13.083333333333334
+Georgia,"Savannah, GA",SAV,Mesa Airlines,92,22.123595505617978
+Georgia,"Savannah, GA",SAV,PSA Airlines,204,22.136363636363637
+Georgia,"Savannah, GA",SAV,Republic Airlines,101,7.414141414141414
+Georgia,"Savannah, GA",SAV,SkyWest Airlines,42,23.384615384615383
+Georgia,"Savannah, GA",SAV,Southwest Airlines,191,13.963157894736842
+Georgia,"Savannah, GA",SAV,United Airlines,85,12.518072289156626
+Georgia,"Valdosta, GA",VLD,Endeavor Air,61,11.62295081967213
+Hawaii,"Hilo, HI",ITO,Hawaiian Airlines,442,9.440366972477063
+Hawaii,"Hilo, HI",ITO,Southwest Airlines,155,3.9741935483870967
+Hawaii,"Honolulu, HI",HNL,American Airlines,131,6.580152671755725
+Hawaii,"Honolulu, HI",HNL,Delta Air Lines,310,18.480645161290322
+Hawaii,"Honolulu, HI",HNL,Hawaiian Airlines,2683,11.988666414809218
+Hawaii,"Honolulu, HI",HNL,Southwest Airlines,1209,9.521666666666667
+Hawaii,"Honolulu, HI",HNL,United Airlines,406,11.333333333333334
+Hawaii,"Kahului, HI",OGG,American Airlines,62,2.9508196721311477
+Hawaii,"Kahului, HI",OGG,Delta Air Lines,98,19.68041237113402
+Hawaii,"Kahului, HI",OGG,Hawaiian Airlines,1135,11.874107142857143
+Hawaii,"Kahului, HI",OGG,Southwest Airlines,581,5.572916666666667
+Hawaii,"Kahului, HI",OGG,United Airlines,151,8.671140939597315
+Hawaii,"Kona, HI",KOA,American Airlines,31,35.38709677419355
+Hawaii,"Kona, HI",KOA,Delta Air Lines,62,16.983333333333334
+Hawaii,"Kona, HI",KOA,Hawaiian Airlines,667,9.112804878048781
+Hawaii,"Kona, HI",KOA,Southwest Airlines,280,4.169064748201439
+Hawaii,"Kona, HI",KOA,United Airlines,147,24.74125874125874
+Hawaii,"Lihue, HI",LIH,American Airlines,31,11.064516129032258
+Hawaii,"Lihue, HI",LIH,Delta Air Lines,62,3.3870967741935485
+Hawaii,"Lihue, HI",LIH,Hawaiian Airlines,728,10.090027700831024
+Hawaii,"Lihue, HI",LIH,Southwest Airlines,281,5.526690391459074
+Hawaii,"Lihue, HI",LIH,United Airlines,87,8.758620689655173
+Illinois,"Belleville, IL",BLV,Allegiant Air,60,20.70689655172414
+Illinois,"Bloomington/Normal, IL",BMI,Allegiant Air,19,41.111111111111114
+Illinois,"Bloomington/Normal, IL",BMI,Endeavor Air,61,32.421052631578945
+Illinois,"Bloomington/Normal, IL",BMI,Envoy Air,62,17.375
+Illinois,"Champaign/Urbana, IL",CMI,Envoy Air,123,26.02777777777778
+Illinois,"Chicago, IL",MDW,Allegiant Air,23,37.26086956521739
+Illinois,"Chicago, IL",MDW,Delta Air Lines,102,31.19
+Illinois,"Chicago, IL",MDW,Frontier Airlines,246,44.665217391304346
+Illinois,"Chicago, IL",MDW,SkyWest Airlines,156,42.66896551724138
+Illinois,"Chicago, IL",MDW,Southwest Airlines,5349,15.36523517382413
+Illinois,"Chicago, IL",ORD,American Airlines,763,27.338753387533874
+Illinois,"Chicago, IL",ORD,Delta Air Lines,587,27.469135802469136
+Illinois,"Chicago, IL",ORD,Endeavor Air,7,0.42857142857142855
+Illinois,"Chicago, IL",ORD,Envoy Air,2126,21.3343449671219
+Illinois,"Chicago, IL",ORD,Frontier Airlines,86,23.074074074074073
+Illinois,"Chicago, IL",ORD,GoJet Airlines,667,24.36439267886855
+Illinois,"Chicago, IL",ORD,JetBlue Airways,18,2.411764705882353
+Illinois,"Chicago, IL",ORD,Republic Airlines,1373,11.162664601084431
+Illinois,"Chicago, IL",ORD,SkyWest Airlines,4080,34.02111903455842
+Illinois,"Chicago, IL",ORD,Southwest Airlines,762,19.586861313868614
+Illinois,"Chicago, IL",ORD,Spirit Airlines,637,20.001612903225805
+Illinois,"Chicago, IL",ORD,United Airlines,6659,27.07101072473188
+Illinois,"Decatur, IL",DEC,SkyWest Airlines,83,55.42857142857143
+Illinois,"Moline, IL",MLI,Allegiant Air,41,37.23076923076923
+Illinois,"Moline, IL",MLI,Endeavor Air,61,38.107142857142854
+Illinois,"Moline, IL",MLI,Envoy Air,62,24.0188679245283
+Illinois,"Moline, IL",MLI,GoJet Airlines,1,0.0
+Illinois,"Moline, IL",MLI,PSA Airlines,60,24.01923076923077
+Illinois,"Moline, IL",MLI,SkyWest Airlines,121,47.313131313131315
+Illinois,"Peoria, IL",PIA,Allegiant Air,86,16.5375
+Illinois,"Peoria, IL",PIA,Envoy Air,61,27.333333333333332
+Illinois,"Peoria, IL",PIA,GoJet Airlines,16,8.8125
+Illinois,"Peoria, IL",PIA,PSA Airlines,62,36.018181818181816
+Illinois,"Peoria, IL",PIA,SkyWest Airlines,74,52.206896551724135
+Illinois,"Rockford, IL",RFD,Allegiant Air,65,25.138461538461538
+Illinois,"Springfield, IL",SPI,Allegiant Air,12,33.25
+Michigan,"Alpena, MI",APN,SkyWest Airlines,51,41.63157894736842
+Michigan,"Detroit, MI",DTW,American Airlines,127,15.479674796747968
+Michigan,"Detroit, MI",DTW,Delta Air Lines,4402,24.341693511274734
+Michigan,"Detroit, MI",DTW,Endeavor Air,1195,17.437392795883362
+Michigan,"Detroit, MI",DTW,Envoy Air,35,25.4375
+Michigan,"Detroit, MI",DTW,Frontier Airlines,189,33.46666666666667
+Michigan,"Detroit, MI",DTW,GoJet Airlines,34,17.46875
+Michigan,"Detroit, MI",DTW,JetBlue Airways,20,10.9
+Michigan,"Detroit, MI",DTW,Mesa Airlines,89,26.023255813953487
+Michigan,"Detroit, MI",DTW,PSA Airlines,93,19.651162790697676
+Michigan,"Detroit, MI",DTW,Republic Airlines,369,17.12957746478873
+Michigan,"Detroit, MI",DTW,SkyWest Airlines,1476,50.04328686720469
+Michigan,"Detroit, MI",DTW,Southwest Airlines,321,14.822950819672132
+Michigan,"Detroit, MI",DTW,Spirit Airlines,755,14.7123473541384
+Michigan,"Detroit, MI",DTW,United Airlines,173,18.436363636363637
+Michigan,"Escanaba, MI",ESC,SkyWest Airlines,52,17.040816326530614
+Michigan,"Flint, MI",FNT,Allegiant Air,113,12.669642857142858
+Michigan,"Flint, MI",FNT,GoJet Airlines,16,15.5625
+Michigan,"Flint, MI",FNT,SkyWest Airlines,46,55.75
+Michigan,"Grand Rapids, MI",GRR,Allegiant Air,172,29.34131736526946
+Michigan,"Grand Rapids, MI",GRR,American Airlines,57,13.963636363636363
+Michigan,"Grand Rapids, MI",GRR,Delta Air Lines,241,19.796610169491526
+Michigan,"Grand Rapids, MI",GRR,Endeavor Air,89,18.25925925925926
+Michigan,"Grand Rapids, MI",GRR,Envoy Air,89,23.012345679012345
+Michigan,"Grand Rapids, MI",GRR,Frontier Airlines,90,43.72289156626506
+Michigan,"Grand Rapids, MI",GRR,GoJet Airlines,2,4.5
+Michigan,"Grand Rapids, MI",GRR,PSA Airlines,68,44.09230769230769
+Michigan,"Grand Rapids, MI",GRR,Republic Airlines,152,13.795774647887324
+Michigan,"Grand Rapids, MI",GRR,SkyWest Airlines,205,40.34444444444444
+Michigan,"Grand Rapids, MI",GRR,Southwest Airlines,161,18.68211920529801
+Michigan,"Grand Rapids, MI",GRR,United Airlines,101,48.8494623655914
+Michigan,"Hancock/Houghton, MI",CMX,SkyWest Airlines,61,22.916666666666668
+Michigan,"Iron Mountain/Kingsfd, MI",IMT,SkyWest Airlines,61,57.56666666666667
+Michigan,"Kalamazoo, MI",AZO,Endeavor Air,14,6.785714285714286
+Michigan,"Kalamazoo, MI",AZO,SkyWest Airlines,68,22.1
+Michigan,"Lansing, MI",LAN,Endeavor Air,35,18.88235294117647
+Michigan,"Lansing, MI",LAN,PSA Airlines,21,30.736842105263158
+Michigan,"Lansing, MI",LAN,SkyWest Airlines,47,59.11904761904762
+Michigan,"Marquette, MI",MQT,Endeavor Air,30,4.925925925925926
+Michigan,"Pellston, MI",PLN,SkyWest Airlines,52,59.925
+Michigan,"Saginaw/Bay City/Midland, MI",MBS,SkyWest Airlines,163,45.514084507042256
+Michigan,"Sault Ste. Marie, MI",CIU,SkyWest Airlines,60,61.666666666666664
+Michigan,"Traverse City, MI",TVC,Allegiant Air,25,9.304347826086957
+Michigan,"Traverse City, MI",TVC,Delta Air Lines,30,35.48275862068966
+Michigan,"Traverse City, MI",TVC,Endeavor Air,4,0.0
+Michigan,"Traverse City, MI",TVC,Envoy Air,7,16.142857142857142
+Michigan,"Traverse City, MI",TVC,GoJet Airlines,8,10.625
+Michigan,"Traverse City, MI",TVC,Republic Airlines,6,1.0
+Michigan,"Traverse City, MI",TVC,SkyWest Airlines,108,71.6
+Michigan,"Traverse City, MI",TVC,United Airlines,31,40.857142857142854
+Nevada,"Elko, NV",EKO,SkyWest Airlines,31,11.866666666666667
+Nevada,"Las Vegas, NV",LAS,Allegiant Air,571,14.542190305206462
+Nevada,"Las Vegas, NV",LAS,American Airlines,329,26.634969325153374
+Nevada,"Las Vegas, NV",LAS,Delta Air Lines,1299,10.625289128758673
+Nevada,"Las Vegas, NV",LAS,Frontier Airlines,887,11.388382687927107
+Nevada,"Las Vegas, NV",LAS,Hawaiian Airlines,117,30.803418803418804
+Nevada,"Las Vegas, NV",LAS,JetBlue Airways,35,13.323529411764707
+Nevada,"Las Vegas, NV",LAS,SkyWest Airlines,193,14.5
+Nevada,"Las Vegas, NV",LAS,Southwest Airlines,7018,14.212929410059429
+Nevada,"Las Vegas, NV",LAS,Spirit Airlines,2003,8.621662468513854
+Nevada,"Las Vegas, NV",LAS,United Airlines,1147,14.444980694980694
+Nevada,"Reno, NV",RNO,Allegiant Air,3,68.0
+Nevada,"Reno, NV",RNO,American Airlines,34,37.27272727272727
+Nevada,"Reno, NV",RNO,Delta Air Lines,62,13.32258064516129
+Nevada,"Reno, NV",RNO,Envoy Air,6,1.1666666666666667
+Nevada,"Reno, NV",RNO,JetBlue Airways,5,0.0
+Nevada,"Reno, NV",RNO,SkyWest Airlines,301,19.325423728813558
+Nevada,"Reno, NV",RNO,Southwest Airlines,705,10.587896253602306
+Nevada,"Reno, NV",RNO,Spirit Airlines,62,12.21311475409836
+Nevada,"Reno, NV",RNO,United Airlines,164,15.754601226993865
+New Jersey,"Atlantic City, NJ",ACY,Spirit Airlines,261,8.546875
+New Jersey,"Newark, NJ",EWR,Allegiant Air,33,22.545454545454547
+New Jersey,"Newark, NJ",EWR,American Airlines,88,19.709302325581394
+New Jersey,"Newark, NJ",EWR,Delta Air Lines,507,23.703557312252965
+New Jersey,"Newark, NJ",EWR,Endeavor Air,122,30.291666666666668
+New Jersey,"Newark, NJ",EWR,Envoy Air,111,38.45918367346939
+New Jersey,"Newark, NJ",EWR,GoJet Airlines,1289,8.999194847020934
+New Jersey,"Newark, NJ",EWR,JetBlue Airways,91,3.4945054945054945
+New Jersey,"Newark, NJ",EWR,Republic Airlines,1581,6.093114754098361
+New Jersey,"Newark, NJ",EWR,Spirit Airlines,837,16.63030303030303
+New Jersey,"Newark, NJ",EWR,United Airlines,5771,16.70308606478819
+New Jersey,"Trenton, NJ",TTN,Frontier Airlines,244,15.287610619469026
+New York,"Albany, NY",ALB,Allegiant Air,40,7.435897435897436
+New York,"Albany, NY",ALB,American Airlines,31,13.935483870967742
+New York,"Albany, NY",ALB,CommuteAir,89,26.406976744186046
+New York,"Albany, NY",ALB,Delta Air Lines,105,13.466666666666667
+New York,"Albany, NY",ALB,Endeavor Air,101,12.229166666666666
+New York,"Albany, NY",ALB,GoJet Airlines,82,9.703703703703704
+New York,"Albany, NY",ALB,JetBlue Airways,10,5.2
+New York,"Albany, NY",ALB,PSA Airlines,79,32.42666666666667
+New York,"Albany, NY",ALB,Republic Airlines,11,8.6
+New York,"Albany, NY",ALB,SkyWest Airlines,8,8.75
+New York,"Albany, NY",ALB,Southwest Airlines,276,11.377777777777778
+New York,"Albany, NY",ALB,United Airlines,62,17.833333333333332
+New York,"Binghamton, NY",BGM,Endeavor Air,32,13.333333333333334
+New York,"Buffalo, NY",BUF,American Airlines,1,0.0
+New York,"Buffalo, NY",BUF,CommuteAir,51,45.02127659574468
+New York,"Buffalo, NY",BUF,Delta Air Lines,142,22.622222222222224
+New York,"Buffalo, NY",BUF,Endeavor Air,142,19.41176470588235
+New York,"Buffalo, NY",BUF,Envoy Air,15,24.2
+New York,"Buffalo, NY",BUF,Frontier Airlines,58,48.58
+New York,"Buffalo, NY",BUF,GoJet Airlines,53,5.543478260869565
+New York,"Buffalo, NY",BUF,JetBlue Airways,51,5.647058823529412
+New York,"Buffalo, NY",BUF,Mesa Airlines,8,1.5714285714285714
+New York,"Buffalo, NY",BUF,PSA Airlines,67,55.824561403508774
+New York,"Buffalo, NY",BUF,Republic Airlines,198,13.807453416149068
+New York,"Buffalo, NY",BUF,SkyWest Airlines,101,56.56962025316456
+New York,"Buffalo, NY",BUF,Southwest Airlines,412,13.11111111111111
+New York,"Buffalo, NY",BUF,United Airlines,78,25.651515151515152
+New York,"Elmira/Corning, NY",ELM,Allegiant Air,21,17.0
+New York,"Elmira/Corning, NY",ELM,SkyWest Airlines,55,109.94444444444444
+New York,"Islip, NY",ISP,Frontier Airlines,219,24.56279069767442
+New York,"Islip, NY",ISP,Southwest Airlines,259,11.708661417322835
+New York,"Ithaca/Cortland, NY",ITH,Endeavor Air,62,22.43103448275862
+New York,"Ithaca/Cortland, NY",ITH,GoJet Airlines,61,18.666666666666668
+New York,"New York, NY",JFK,American Airlines,592,11.146010186757216
+New York,"New York, NY",JFK,Delta Air Lines,2377,13.210881484605652
+New York,"New York, NY",JFK,Endeavor Air,1426,17.180351906158357
+New York,"New York, NY",JFK,Hawaiian Airlines,31,8.387096774193548
+New York,"New York, NY",JFK,JetBlue Airways,538,13.58364312267658
+New York,"New York, NY",JFK,Republic Airlines,1196,9.463478260869564
+New York,"New York, NY",JFK,SkyWest Airlines,205,60.86187845303867
+New York,"New York, NY",LGA,American Airlines,168,18.203703703703702
+New York,"New York, NY",LGA,Delta Air Lines,2105,19.812770043206914
+New York,"New York, NY",LGA,Endeavor Air,2391,19.14771709937332
+New York,"New York, NY",LGA,Frontier Airlines,102,57.395833333333336
+New York,"New York, NY",LGA,GoJet Airlines,1,0.0
+New York,"New York, NY",LGA,JetBlue Airways,229,10.270742358078603
+New York,"New York, NY",LGA,Mesa Airlines,115,47.46601941747573
+New York,"New York, NY",LGA,Republic Airlines,3293,12.087584215591916
+New York,"New York, NY",LGA,SkyWest Airlines,236,31.868544600938968
+New York,"New York, NY",LGA,Southwest Airlines,992,18.444444444444443
+New York,"New York, NY",LGA,Spirit Airlines,631,17.157119476268413
+New York,"New York, NY",LGA,United Airlines,526,22.51792828685259
+New York,"Newburgh/Poughkeepsie, NY",SWF,Allegiant Air,30,51.53333333333333
+New York,"Niagara Falls, NY",IAG,Allegiant Air,37,26.228571428571428
+New York,"Plattsburgh, NY",PBG,Allegiant Air,40,35.175
+New York,"Rochester, NY",ROC,Allegiant Air,5,10.0
+New York,"Rochester, NY",ROC,American Airlines,6,0.5
+New York,"Rochester, NY",ROC,CommuteAir,11,0.0
+New York,"Rochester, NY",ROC,Delta Air Lines,98,23.775510204081634
+New York,"Rochester, NY",ROC,Endeavor Air,203,27.697916666666668
+New York,"Rochester, NY",ROC,Envoy Air,59,16.785714285714285
+New York,"Rochester, NY",ROC,GoJet Airlines,42,11.487804878048781
+New York,"Rochester, NY",ROC,JetBlue Airways,13,30.23076923076923
+New York,"Rochester, NY",ROC,Mesa Airlines,1,0.0
+New York,"Rochester, NY",ROC,PSA Airlines,38,8.026315789473685
+New York,"Rochester, NY",ROC,Republic Airlines,165,14.753246753246753
+New York,"Rochester, NY",ROC,SkyWest Airlines,8,13.625
+New York,"Rochester, NY",ROC,Southwest Airlines,168,15.674846625766872
+New York,"Rochester, NY",ROC,Spirit Airlines,20,10.68421052631579
+New York,"Rochester, NY",ROC,United Airlines,62,17.05263157894737
+New York,"Syracuse, NY",SYR,Allegiant Air,55,12.444444444444445
+New York,"Syracuse, NY",SYR,American Airlines,61,19.6
+New York,"Syracuse, NY",SYR,CommuteAir,43,34.13953488372093
+New York,"Syracuse, NY",SYR,Delta Air Lines,105,10.557692307692308
+New York,"Syracuse, NY",SYR,Endeavor Air,138,16.849624060150376
+New York,"Syracuse, NY",SYR,Envoy Air,50,16.958333333333332
+New York,"Syracuse, NY",SYR,Frontier Airlines,41,9.682926829268293
+New York,"Syracuse, NY",SYR,GoJet Airlines,23,15.571428571428571
+New York,"Syracuse, NY",SYR,JetBlue Airways,25,10.6
+New York,"Syracuse, NY",SYR,Mesa Airlines,28,28.178571428571427
+New York,"Syracuse, NY",SYR,PSA Airlines,8,217.0
+New York,"Syracuse, NY",SYR,Republic Airlines,218,9.495192307692308
+New York,"Syracuse, NY",SYR,Southwest Airlines,120,6.5423728813559325
+New York,"Syracuse, NY",SYR,United Airlines,93,11.91304347826087
+New York,"White Plains, NY",HPN,Delta Air Lines,123,38.951219512195124
+New York,"White Plains, NY",HPN,Endeavor Air,77,37.578947368421055
+New York,"White Plains, NY",HPN,Envoy Air,118,31.69090909090909
+New York,"White Plains, NY",HPN,JetBlue Airways,91,11.340659340659341
+New York,"White Plains, NY",HPN,PSA Airlines,220,28.360975609756096
+New York,"White Plains, NY",HPN,Republic Airlines,5,20.2
+New York,"White Plains, NY",HPN,SkyWest Airlines,98,54.2
+North Carolina,"Asheville, NC",AVL,Allegiant Air,225,19.345291479820627
+North Carolina,"Asheville, NC",AVL,Delta Air Lines,149,17.83108108108108
+North Carolina,"Asheville, NC",AVL,Endeavor Air,48,14.979166666666666
+North Carolina,"Asheville, NC",AVL,Envoy Air,59,11.444444444444445
+North Carolina,"Asheville, NC",AVL,GoJet Airlines,9,15.777777777777779
+North Carolina,"Asheville, NC",AVL,PSA Airlines,210,16.347826086956523
+North Carolina,"Asheville, NC",AVL,Republic Airlines,81,8.592592592592593
+North Carolina,"Asheville, NC",AVL,SkyWest Airlines,69,17.421875
+North Carolina,"Charlotte, NC",CLT,American Airlines,2390,23.510754955714887
+North Carolina,"Charlotte, NC",CLT,Delta Air Lines,409,17.409313725490197
+North Carolina,"Charlotte, NC",CLT,Endeavor Air,256,16.95435684647303
+North Carolina,"Charlotte, NC",CLT,Envoy Air,544,15.771698113207547
+North Carolina,"Charlotte, NC",CLT,Frontier Airlines,150,33.40136054421769
+North Carolina,"Charlotte, NC",CLT,GoJet Airlines,11,25.454545454545453
+North Carolina,"Charlotte, NC",CLT,JetBlue Airways,13,26.53846153846154
+North Carolina,"Charlotte, NC",CLT,Mesa Airlines,93,34.70786516853933
+North Carolina,"Charlotte, NC",CLT,PSA Airlines,3897,16.6476039184538
+North Carolina,"Charlotte, NC",CLT,Republic Airlines,95,6.516129032258065
+North Carolina,"Charlotte, NC",CLT,Southwest Airlines,254,12.718367346938775
+North Carolina,"Charlotte, NC",CLT,Spirit Airlines,417,23.7512077294686
+North Carolina,"Charlotte, NC",CLT,United Airlines,319,22.38157894736842
+North Carolina,"Concord, NC",USA,Allegiant Air,68,9.455882352941176
+North Carolina,"Fayetteville, NC",FAY,Delta Air Lines,30,12.133333333333333
+North Carolina,"Fayetteville, NC",FAY,Endeavor Air,22,14.772727272727273
+North Carolina,"Fayetteville, NC",FAY,PSA Airlines,61,12.844827586206897
+North Carolina,"Fayetteville, NC",FAY,SkyWest Airlines,9,37.888888888888886
+North Carolina,"Greensboro/High Point, NC",GSO,Allegiant Air,3,10.0
+North Carolina,"Greensboro/High Point, NC",GSO,American Airlines,25,37.64
+North Carolina,"Greensboro/High Point, NC",GSO,Delta Air Lines,163,10.478527607361963
+North Carolina,"Greensboro/High Point, NC",GSO,Endeavor Air,124,10.873949579831933
+North Carolina,"Greensboro/High Point, NC",GSO,Envoy Air,118,9.275862068965518
+North Carolina,"Greensboro/High Point, NC",GSO,GoJet Airlines,3,0.3333333333333333
+North Carolina,"Greensboro/High Point, NC",GSO,PSA Airlines,173,20.58433734939759
+North Carolina,"Greensboro/High Point, NC",GSO,Republic Airlines,152,13.891156462585034
+North Carolina,"Greensboro/High Point, NC",GSO,SkyWest Airlines,71,36.84285714285714
+North Carolina,"Jacksonville/Camp Lejeune, NC",OAJ,Delta Air Lines,24,6.708333333333333
+North Carolina,"Jacksonville/Camp Lejeune, NC",OAJ,Endeavor Air,37,48.83783783783784
+North Carolina,"Jacksonville/Camp Lejeune, NC",OAJ,PSA Airlines,9,3.0
+North Carolina,"Raleigh/Durham, NC",RDU,American Airlines,87,20.0
+North Carolina,"Raleigh/Durham, NC",RDU,Delta Air Lines,826,15.947815533980583
+North Carolina,"Raleigh/Durham, NC",RDU,Endeavor Air,469,24.18421052631579
+North Carolina,"Raleigh/Durham, NC",RDU,Envoy Air,171,17.77710843373494
+North Carolina,"Raleigh/Durham, NC",RDU,Frontier Airlines,215,14.44811320754717
+North Carolina,"Raleigh/Durham, NC",RDU,GoJet Airlines,23,23.0
+North Carolina,"Raleigh/Durham, NC",RDU,JetBlue Airways,48,19.979166666666668
+North Carolina,"Raleigh/Durham, NC",RDU,Mesa Airlines,55,19.685185185185187
+North Carolina,"Raleigh/Durham, NC",RDU,PSA Airlines,20,0.95
+North Carolina,"Raleigh/Durham, NC",RDU,Republic Airlines,492,8.817796610169491
+North Carolina,"Raleigh/Durham, NC",RDU,Southwest Airlines,682,11.359756097560975
+North Carolina,"Raleigh/Durham, NC",RDU,Spirit Airlines,24,34.333333333333336
+North Carolina,"Raleigh/Durham, NC",RDU,United Airlines,395,15.416666666666666
+North Carolina,"Wilmington, NC",ILM,Delta Air Lines,57,3.3859649122807016
+North Carolina,"Wilmington, NC",ILM,Endeavor Air,66,18.984375
+North Carolina,"Wilmington, NC",ILM,Envoy Air,31,16.580645161290324
+North Carolina,"Wilmington, NC",ILM,GoJet Airlines,61,22.295081967213115
+North Carolina,"Wilmington, NC",ILM,PSA Airlines,146,24.614285714285714
+North Carolina,"Wilmington, NC",ILM,Republic Airlines,80,13.202702702702704
+North Carolina,"Wilmington, NC",ILM,SkyWest Airlines,1,23.0
+Tennessee,"Bristol/Johnson City/Kingsport, TN",TRI,Allegiant Air,11,29.363636363636363
+Tennessee,"Bristol/Johnson City/Kingsport, TN",TRI,Delta Air Lines,1,0.0
+Tennessee,"Bristol/Johnson City/Kingsport, TN",TRI,Endeavor Air,65,11.984126984126984
+Tennessee,"Bristol/Johnson City/Kingsport, TN",TRI,Envoy Air,45,12.431818181818182
+Tennessee,"Bristol/Johnson City/Kingsport, TN",TRI,PSA Airlines,22,10.666666666666666
+Tennessee,"Bristol/Johnson City/Kingsport, TN",TRI,SkyWest Airlines,48,29.851063829787233
+Tennessee,"Chattanooga, TN",CHA,Allegiant Air,17,25.294117647058822
+Tennessee,"Chattanooga, TN",CHA,Delta Air Lines,59,15.948275862068966
+Tennessee,"Chattanooga, TN",CHA,Endeavor Air,127,18.879032258064516
+Tennessee,"Chattanooga, TN",CHA,Envoy Air,99,25.74468085106383
+Tennessee,"Chattanooga, TN",CHA,PSA Airlines,82,9.173333333333334
+Tennessee,"Chattanooga, TN",CHA,SkyWest Airlines,86,32.42307692307692
+Tennessee,"Knoxville, TN",TYS,Allegiant Air,163,30.40764331210191
+Tennessee,"Knoxville, TN",TYS,CommuteAir,154,13.966442953020135
+Tennessee,"Knoxville, TN",TYS,Delta Air Lines,54,21.245283018867923
+Tennessee,"Knoxville, TN",TYS,Endeavor Air,249,19.696202531645568
+Tennessee,"Knoxville, TN",TYS,Envoy Air,65,15.241935483870968
+Tennessee,"Knoxville, TN",TYS,Frontier Airlines,15,31.142857142857142
+Tennessee,"Knoxville, TN",TYS,PSA Airlines,252,14.026315789473685
+Tennessee,"Knoxville, TN",TYS,Republic Airlines,42,15.135135135135135
+Tennessee,"Knoxville, TN",TYS,SkyWest Airlines,131,30.327731092436974
+Tennessee,"Memphis, TN",MEM,Allegiant Air,39,21.94736842105263
+Tennessee,"Memphis, TN",MEM,American Airlines,31,24.129032258064516
+Tennessee,"Memphis, TN",MEM,Delta Air Lines,319,17.859477124183005
+Tennessee,"Memphis, TN",MEM,Endeavor Air,84,31.175
+Tennessee,"Memphis, TN",MEM,Envoy Air,106,18.84158415841584
+Tennessee,"Memphis, TN",MEM,Frontier Airlines,20,19.25
+Tennessee,"Memphis, TN",MEM,GoJet Airlines,27,27.16
+Tennessee,"Memphis, TN",MEM,Mesa Airlines,85,37.8875
+Tennessee,"Memphis, TN",MEM,PSA Airlines,9,0.3333333333333333
+Tennessee,"Memphis, TN",MEM,Republic Airlines,247,13.606837606837606
+Tennessee,"Memphis, TN",MEM,SkyWest Airlines,39,33.77142857142857
+Tennessee,"Memphis, TN",MEM,Southwest Airlines,267,13.65267175572519
+Tennessee,"Memphis, TN",MEM,Spirit Airlines,72,5.057142857142857
+Tennessee,"Memphis, TN",MEM,United Airlines,117,15.716814159292035
+Tennessee,"Nashville, TN",BNA,Allegiant Air,250,25.964912280701753
+Tennessee,"Nashville, TN",BNA,American Airlines,99,80.2258064516129
+Tennessee,"Nashville, TN",BNA,Delta Air Lines,602,17.515734265734267
+Tennessee,"Nashville, TN",BNA,Endeavor Air,82,54.92307692307692
+Tennessee,"Nashville, TN",BNA,Envoy Air,226,18.92079207920792
+Tennessee,"Nashville, TN",BNA,Frontier Airlines,40,30.55263157894737
+Tennessee,"Nashville, TN",BNA,JetBlue Airways,19,0.0
+Tennessee,"Nashville, TN",BNA,Mesa Airlines,33,57.1875
+Tennessee,"Nashville, TN",BNA,PSA Airlines,294,17.958174904942965
+Tennessee,"Nashville, TN",BNA,Republic Airlines,438,14.350746268656716
+Tennessee,"Nashville, TN",BNA,SkyWest Airlines,299,28.87360594795539
+Tennessee,"Nashville, TN",BNA,Southwest Airlines,3872,16.27319868995633
+Tennessee,"Nashville, TN",BNA,Spirit Airlines,292,18.68100358422939
+Tennessee,"Nashville, TN",BNA,United Airlines,387,39.21686746987952
+Texas,"Abilene, TX",ABI,Envoy Air,151,14.12
+Texas,"Amarillo, TX",AMA,CommuteAir,73,28.96825396825397
+Texas,"Amarillo, TX",AMA,Envoy Air,100,16.956989247311828
+Texas,"Amarillo, TX",AMA,SkyWest Airlines,40,6.526315789473684
+Texas,"Amarillo, TX",AMA,Southwest Airlines,174,9.452380952380953
+Texas,"Austin, TX",AUS,Allegiant Air,67,5.809523809523809
+Texas,"Austin, TX",AUS,American Airlines,162,34.175
+Texas,"Austin, TX",AUS,Delta Air Lines,720,12.13268156424581
+Texas,"Austin, TX",AUS,Endeavor Air,47,36.891304347826086
+Texas,"Austin, TX",AUS,Envoy Air,435,19.489461358313818
+Texas,"Austin, TX",AUS,Frontier Airlines,14,22.76923076923077
+Texas,"Austin, TX",AUS,Hawaiian Airlines,12,17.272727272727273
+Texas,"Austin, TX",AUS,JetBlue Airways,19,10.421052631578947
+Texas,"Austin, TX",AUS,Mesa Airlines,98,24.24468085106383
+Texas,"Austin, TX",AUS,Republic Airlines,13,9.923076923076923
+Texas,"Austin, TX",AUS,SkyWest Airlines,138,33.38970588235294
+Texas,"Austin, TX",AUS,Southwest Airlines,2943,14.372377622377622
+Texas,"Austin, TX",AUS,Spirit Airlines,76,16.413333333333334
+Texas,"Austin, TX",AUS,United Airlines,716,19.991071428571427
+Texas,"Beaumont/Port Arthur, TX",BPT,Envoy Air,61,32.45762711864407
+Texas,"Beaumont/Port Arthur, TX",BPT,SkyWest Airlines,1,0.0
+Texas,"Brownsville, TX",BRO,CommuteAir,101,20.778947368421054
+Texas,"Brownsville, TX",BRO,Envoy Air,97,13.042553191489361
+Texas,"Brownsville, TX",BRO,Mesa Airlines,23,18.238095238095237
+Texas,"Brownsville, TX",BRO,SkyWest Airlines,14,1.2857142857142858
+Texas,"College Station/Bryan, TX",CLL,Envoy Air,62,29.916666666666668
+Texas,"College Station/Bryan, TX",CLL,SkyWest Airlines,31,8.142857142857142
+Texas,"Corpus Christi, TX",CRP,CommuteAir,83,45.7125
+Texas,"Corpus Christi, TX",CRP,Envoy Air,201,19.316326530612244
+Texas,"Corpus Christi, TX",CRP,Mesa Airlines,76,20.565217391304348
+Texas,"Corpus Christi, TX",CRP,SkyWest Airlines,3,0.0
+Texas,"Corpus Christi, TX",CRP,Southwest Airlines,113,16.396396396396398
+Texas,"Dallas, TX",DAL,Delta Air Lines,162,17.438271604938272
+Texas,"Dallas, TX",DAL,Southwest Airlines,5832,14.717379726611043
+Texas,"Dallas/Fort Worth, TX",DFW,American Airlines,2462,25.13012847078326
+Texas,"Dallas/Fort Worth, TX",DFW,Delta Air Lines,972,25.234683281412252
+Texas,"Dallas/Fort Worth, TX",DFW,Envoy Air,5108,15.097422366551655
+Texas,"Dallas/Fort Worth, TX",DFW,Frontier Airlines,471,18.21153846153846
+Texas,"Dallas/Fort Worth, TX",DFW,JetBlue Airways,7,0.0
+Texas,"Dallas/Fort Worth, TX",DFW,Mesa Airlines,173,30.93167701863354
+Texas,"Dallas/Fort Worth, TX",DFW,PSA Airlines,694,25.442598187311177
+Texas,"Dallas/Fort Worth, TX",DFW,Republic Airlines,3,6.333333333333333
+Texas,"Dallas/Fort Worth, TX",DFW,SkyWest Airlines,1698,17.331677018633542
+Texas,"Dallas/Fort Worth, TX",DFW,Spirit Airlines,745,22.204918032786885
+Texas,"Dallas/Fort Worth, TX",DFW,United Airlines,609,20.49829931972789
+Texas,"El Paso, TX",ELP,Allegiant Air,3,0.0
+Texas,"El Paso, TX",ELP,American Airlines,23,18.91304347826087
+Texas,"El Paso, TX",ELP,CommuteAir,1,17.0
+Texas,"El Paso, TX",ELP,Delta Air Lines,53,10.981132075471699
+Texas,"El Paso, TX",ELP,Envoy Air,141,19.86764705882353
+Texas,"El Paso, TX",ELP,Frontier Airlines,25,14.6
+Texas,"El Paso, TX",ELP,Mesa Airlines,171,18.833333333333332
+Texas,"El Paso, TX",ELP,SkyWest Airlines,162,18.375
+Texas,"El Paso, TX",ELP,Southwest Airlines,681,8.53125
+Texas,"El Paso, TX",ELP,United Airlines,23,6.521739130434782
+Texas,"Harlingen/San Benito, TX",HRL,CommuteAir,39,33.97222222222222
+Texas,"Harlingen/San Benito, TX",HRL,Delta Air Lines,31,5.064516129032258
+Texas,"Harlingen/San Benito, TX",HRL,Envoy Air,122,15.703389830508474
+Texas,"Harlingen/San Benito, TX",HRL,Mesa Airlines,77,27.457142857142856
+Texas,"Harlingen/San Benito, TX",HRL,SkyWest Airlines,8,4.375
+Texas,"Harlingen/San Benito, TX",HRL,Southwest Airlines,176,14.784090909090908
+Texas,"Houston, TX",HOU,Allegiant Air,28,21.307692307692307
+Texas,"Houston, TX",HOU,Delta Air Lines,108,29.87037037037037
+Texas,"Houston, TX",HOU,Envoy Air,145,18.525547445255473
+Texas,"Houston, TX",HOU,Frontier Airlines,37,23.17142857142857
+Texas,"Houston, TX",HOU,SkyWest Airlines,27,21.72
+Texas,"Houston, TX",HOU,Southwest Airlines,4253,15.648551592051712
+Texas,"Houston, TX",IAH,American Airlines,50,11.673469387755102
+Texas,"Houston, TX",IAH,CommuteAir,1671,17.999360204734487
+Texas,"Houston, TX",IAH,Delta Air Lines,626,20.184168012924072
+Texas,"Houston, TX",IAH,Envoy Air,184,35.70454545454545
+Texas,"Houston, TX",IAH,Frontier Airlines,125,38.895161290322584
+Texas,"Houston, TX",IAH,JetBlue Airways,13,22.307692307692307
+Texas,"Houston, TX",IAH,Mesa Airlines,2255,22.831924882629107
+Texas,"Houston, TX",IAH,Republic Airlines,2,0.0
+Texas,"Houston, TX",IAH,SkyWest Airlines,1005,25.977707006369428
+Texas,"Houston, TX",IAH,Southwest Airlines,428,15.75794621026895
+Texas,"Houston, TX",IAH,Spirit Airlines,591,23.95840554592721
+Texas,"Houston, TX",IAH,United Airlines,5377,22.158340048348105
+Texas,"Killeen, TX",GRK,Envoy Air,77,18.76
+Texas,"Killeen, TX",GRK,SkyWest Airlines,52,24.5
+Texas,"Laredo, TX",LRD,Allegiant Air,9,49.0
+Texas,"Laredo, TX",LRD,CommuteAir,81,28.0
+Texas,"Laredo, TX",LRD,Envoy Air,120,20.728813559322035
+Texas,"Longview, TX",GGG,SkyWest Airlines,61,16.551724137931036
+Texas,"Lubbock, TX",LBB,American Airlines,23,36.13636363636363
+Texas,"Lubbock, TX",LBB,CommuteAir,80,19.342105263157894
+Texas,"Lubbock, TX",LBB,Envoy Air,139,23.853846153846153
+Texas,"Lubbock, TX",LBB,SkyWest Airlines,75,21.68918918918919
+Texas,"Lubbock, TX",LBB,Southwest Airlines,216,11.620192307692308
+Texas,"Midland/Odessa, TX",MAF,CommuteAir,6,1.5
+Texas,"Midland/Odessa, TX",MAF,Envoy Air,186,18.446927374301676
+Texas,"Midland/Odessa, TX",MAF,Mesa Airlines,108,26.19191919191919
+Texas,"Midland/Odessa, TX",MAF,SkyWest Airlines,177,16.46551724137931
+Texas,"Midland/Odessa, TX",MAF,Southwest Airlines,302,9.47972972972973
+Texas,"Midland/Odessa, TX",MAF,United Airlines,22,8.095238095238095
+Texas,"Mission/McAllen/Edinburg, TX",MFE,Allegiant Air,37,18.2972972972973
+Texas,"Mission/McAllen/Edinburg, TX",MFE,CommuteAir,56,23.69811320754717
+Texas,"Mission/McAllen/Edinburg, TX",MFE,Envoy Air,32,14.84375
+Texas,"Mission/McAllen/Edinburg, TX",MFE,Mesa Airlines,81,22.246753246753247
+Texas,"Mission/McAllen/Edinburg, TX",MFE,SkyWest Airlines,44,30.325
+Texas,"Mission/McAllen/Edinburg, TX",MFE,United Airlines,31,2.2142857142857144
+Texas,"San Angelo, TX",SJT,Envoy Air,64,16.677419354838708
+Texas,"San Angelo, TX",SJT,SkyWest Airlines,29,80.58620689655173
+Texas,"San Antonio, TX",SAT,American Airlines,45,2.697674418604651
+Texas,"San Antonio, TX",SAT,Delta Air Lines,452,17.337777777777777
+Texas,"San Antonio, TX",SAT,Envoy Air,34,19.545454545454547
+Texas,"San Antonio, TX",SAT,Frontier Airlines,46,19.023809523809526
+Texas,"San Antonio, TX",SAT,JetBlue Airways,14,0.35714285714285715
+Texas,"San Antonio, TX",SAT,Mesa Airlines,92,17.752808988764045
+Texas,"San Antonio, TX",SAT,SkyWest Airlines,87,5.741176470588235
+Texas,"San Antonio, TX",SAT,Southwest Airlines,1315,11.294254658385093
+Texas,"San Antonio, TX",SAT,Spirit Airlines,152,19.533333333333335
+Texas,"San Antonio, TX",SAT,United Airlines,443,16.14676616915423
+Texas,"Tyler, TX",TYR,SkyWest Airlines,93,34.72941176470588
+Texas,"Victoria, TX",VCT,SkyWest Airlines,53,34.32
+Texas,"Waco, TX",ACT,Envoy Air,15,111.86666666666666
+Texas,"Waco, TX",ACT,SkyWest Airlines,78,21.56338028169014
+Texas,"Wichita Falls, TX",SPS,SkyWest Airlines,62,33.75438596491228
+Virginia,"Charlottesville, VA",CHO,CommuteAir,52,8.764705882352942
+Virginia,"Charlottesville, VA",CHO,Delta Air Lines,6,0.0
+Virginia,"Charlottesville, VA",CHO,Endeavor Air,151,16.64788732394366
+Virginia,"Charlottesville, VA",CHO,Republic Airlines,48,17.022222222222222
+Virginia,"Charlottesville, VA",CHO,SkyWest Airlines,31,15.48
+Virginia,"Norfolk, VA",ORF,Allegiant Air,11,18.727272727272727
+Virginia,"Norfolk, VA",ORF,American Airlines,31,20.161290322580644
+Virginia,"Norfolk, VA",ORF,CommuteAir,12,18.25
+Virginia,"Norfolk, VA",ORF,Delta Air Lines,173,12.290697674418604
+Virginia,"Norfolk, VA",ORF,Endeavor Air,159,20.31578947368421
+Virginia,"Norfolk, VA",ORF,Envoy Air,22,8.909090909090908
+Virginia,"Norfolk, VA",ORF,Frontier Airlines,22,10.318181818181818
+Virginia,"Norfolk, VA",ORF,GoJet Airlines,51,12.9
+Virginia,"Norfolk, VA",ORF,Mesa Airlines,51,14.48
+Virginia,"Norfolk, VA",ORF,PSA Airlines,205,18.744897959183675
+Virginia,"Norfolk, VA",ORF,Republic Airlines,170,5.838323353293413
+Virginia,"Norfolk, VA",ORF,Southwest Airlines,226,11.466367713004484
+Virginia,"Norfolk, VA",ORF,Spirit Airlines,79,11.278481012658228
+Virginia,"Norfolk, VA",ORF,United Airlines,166,6.695121951219512
+Virginia,"Richmond, VA",RIC,Allegiant Air,29,5.655172413793103
+Virginia,"Richmond, VA",RIC,American Airlines,30,51.6
+Virginia,"Richmond, VA",RIC,CommuteAir,47,47.46808510638298
+Virginia,"Richmond, VA",RIC,Delta Air Lines,181,6.469613259668508
+Virginia,"Richmond, VA",RIC,Endeavor Air,146,30.718309859154928
+Virginia,"Richmond, VA",RIC,Envoy Air,44,8.953488372093023
+Virginia,"Richmond, VA",RIC,GoJet Airlines,220,12.741784037558686
+Virginia,"Richmond, VA",RIC,JetBlue Airways,28,2.357142857142857
+Virginia,"Richmond, VA",RIC,Republic Airlines,161,13.128205128205128
+Virginia,"Richmond, VA",RIC,SkyWest Airlines,20,126.25
+Virginia,"Richmond, VA",RIC,Southwest Airlines,140,9.364285714285714
+Virginia,"Richmond, VA",RIC,Spirit Airlines,96,20.31578947368421
+Virginia,"Richmond, VA",RIC,United Airlines,93,6.771739130434782
+Virginia,"Roanoke, VA",ROA,Allegiant Air,19,22.63157894736842
+Virginia,"Roanoke, VA",ROA,CommuteAir,38,70.8157894736842
+Virginia,"Roanoke, VA",ROA,Delta Air Lines,31,28.387096774193548
+Virginia,"Roanoke, VA",ROA,Endeavor Air,82,32.58441558441559
+Virginia,"Roanoke, VA",ROA,Mesa Airlines,17,7.75
+Virginia,"Roanoke, VA",ROA,PSA Airlines,48,27.782608695652176
+Virginia,"Roanoke, VA",ROA,Republic Airlines,26,23.115384615384617
+Virginia,"Roanoke, VA",ROA,SkyWest Airlines,50,43.18604651162791
+Virginia,"Washington, DC",DCA,American Airlines,609,18.706484641638227
+Virginia,"Washington, DC",DCA,Delta Air Lines,704,18.81831395348837
+Virginia,"Washington, DC",DCA,Endeavor Air,155,13.741496598639456
+Virginia,"Washington, DC",DCA,Envoy Air,370,18.337142857142858
+Virginia,"Washington, DC",DCA,Frontier Airlines,93,10.43010752688172
+Virginia,"Washington, DC",DCA,GoJet Airlines,219,7.644230769230769
+Virginia,"Washington, DC",DCA,JetBlue Airways,167,7.880239520958084
+Virginia,"Washington, DC",DCA,Mesa Airlines,12,24.416666666666668
+Virginia,"Washington, DC",DCA,PSA Airlines,3059,25.40420227920228
+Virginia,"Washington, DC",DCA,Republic Airlines,2231,14.462268628381585
+Virginia,"Washington, DC",DCA,SkyWest Airlines,11,1.7272727272727273
+Virginia,"Washington, DC",DCA,Southwest Airlines,1341,17.55044390637611
+Virginia,"Washington, DC",DCA,United Airlines,529,19.54240631163708
+Virginia,"Washington, DC",IAD,Allegiant Air,23,12.0
+Virginia,"Washington, DC",IAD,CommuteAir,596,21.162393162393162
+Virginia,"Washington, DC",IAD,Delta Air Lines,225,18.64
+Virginia,"Washington, DC",IAD,Endeavor Air,64,13.174603174603174
+Virginia,"Washington, DC",IAD,Envoy Air,26,7.56
+Virginia,"Washington, DC",IAD,GoJet Airlines,205,21.53731343283582
+Virginia,"Washington, DC",IAD,Mesa Airlines,818,32.96009975062344
+Virginia,"Washington, DC",IAD,PSA Airlines,114,26.955357142857142
+Virginia,"Washington, DC",IAD,Republic Airlines,850,10.103614457831325
+Virginia,"Washington, DC",IAD,SkyWest Airlines,153,30.20138888888889
+Virginia,"Washington, DC",IAD,Southwest Airlines,70,18.34285714285714
+Virginia,"Washington, DC",IAD,United Airlines,2315,14.383070301291248

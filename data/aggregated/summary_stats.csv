@@ -1,0 +1,2 @@
+TotalFlights,AvgDepartureDelay,AvgArrivalDelay,CancellationRate,TotalCancelled,TopOriginHub,TopDestHub,AvgDistance,TotalStates,TotalAirports,TotalAirlines
+469530,17.73964073917947,18.107684116576237,3.595510404021042,16882,ATL,ATL,773.0098055502311,52,322,17
