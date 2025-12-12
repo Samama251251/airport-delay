@@ -58,21 +58,21 @@ def create_choropleth(state_metrics_df, metric='AvgDepDelay'):
     metric_config = {
         'AvgDepDelay': {
             'title': 'Average Departure Delay by State',
-            'color_scale': COLORS['diverging'],
+            'color_scale': 'Teal',
             'labels': {'z': 'Avg Delay (min)'},
             'hover_suffix': ' min',
             'value_format': '.1f'
         },
         'CancellationRate': {
             'title': 'Flight Cancellation Rate by State',
-            'color_scale': COLORS['sequential'],
+            'color_scale': 'Teal',
             'labels': {'z': 'Cancel Rate (%)'},
             'hover_suffix': '%',
             'value_format': '.2f'
         },
         'FlightCount': {
             'title': 'Total Flight Volume by State',
-            'color_scale': COLORS['sequential'],
+            'color_scale': 'Teal',
             'labels': {'z': 'Total Flights'},
             'hover_suffix': ' flights',
             'value_format': ',.0f'
@@ -137,7 +137,7 @@ def create_choropleth(state_metrics_df, metric='AvgDepDelay'):
             axis=1
         ),
         mode='text',
-        textfont=dict(color=COLORS['text'], size=9),
+        textfont=dict(color='white', size=9, family='Arial', weight='bold'),
         hoverinfo='skip',
         showlegend=False
     ))
@@ -155,7 +155,7 @@ def create_animated_airline_chart(daily_airline_df, metric='FlightCount', select
     
     Args:
         daily_airline_df: DataFrame with daily airline metrics
-        metric: Which metric to show ('FlightCount', 'AvgDepDelay', 'OnTimeRate', 'CancellationRate')
+        metric: Which metric to show ('FlightCount', 'AvgDepDelay', 'OnTimeRate')
         selected_airlines: List of airlines to include (None = all)
     """
     # Metric configuration
@@ -179,13 +179,6 @@ def create_animated_airline_chart(daily_airline_df, metric='FlightCount', select
             'subtitle': 'Percentage of flights arriving within 15 minutes',
             'x_label': 'On-Time %',
             'format': ':.1f',
-            'suffix': '%'
-        },
-        'CancellationRate': {
-            'title': 'Cancellation Rate by Airline',
-            'subtitle': 'Percentage of flights cancelled each day',
-            'x_label': 'Cancellation %',
-            'format': ':.2f',
             'suffix': '%'
         }
     }
