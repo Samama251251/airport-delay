@@ -162,7 +162,7 @@ def create_animated_airline_chart(daily_airline_df, metric='FlightCount', select
     metric_config = {
         'FlightCount': {
             'title': 'Daily Flight Volume by Airline',
-            'subtitle': 'Number of flights operated each day in January 2018',
+            'subtitle': 'Number of flights operated each day',
             'x_label': 'Daily Flights',
             'format': ':,',
             'suffix': ' flights'

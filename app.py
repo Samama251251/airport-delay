@@ -230,7 +230,7 @@ except Exception as e:
 st.markdown("""
     <div class="header-container">
         <h1 class="header-title">US Flight Analytics Dashboard</h1>
-        <p class="header-subtitle">Interactive analysis of flight data • January 2018</p>
+        <p class="header-subtitle">Interactive analysis of flight data</p>
     </div>
 """, unsafe_allow_html=True)
 
@@ -292,7 +292,7 @@ st.sidebar.header("About")
 st.sidebar.info("""
 **US Flight Analytics Dashboard**
 
-Interactive flight analytics for January 2018 featuring:
+Interactive flight analytics featuring:
 - US state-level metrics
 - Daily airline performance animation
 - Multi-level hierarchy drill-down
@@ -377,7 +377,7 @@ with col2:
 
 st.markdown("""
     <p class="section-subtitle">
-        Compare airlines day by day throughout January 2018 with animated bar chart
+        Compare airlines day by day with animated bar chart
     </p>
 """, unsafe_allow_html=True)
 
@@ -439,6 +439,6 @@ except Exception as e:
 st.markdown("---")
 st.markdown("""
     <div style="text-align: center; color: #0d9488; padding: 2rem 0;">
-        <p>US Flight Analytics Dashboard • Data: January 2018 • Built with Streamlit + Plotly</p>
+        <p>US Flight Analytics Dashboard • Built with Streamlit + Plotly</p>
     </div>
 """, unsafe_allow_html=True)
